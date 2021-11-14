@@ -113,6 +113,7 @@ def imprime_mensagem_perdedor(palavra_secreta):
     print("     \_         _/         ")
     print("       \_______/           ")
 
+
 def desenha_forca(erros):
     print("  _______     ")
     print(" |/      |    ")
